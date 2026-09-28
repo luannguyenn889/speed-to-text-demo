@@ -122,29 +122,19 @@ Whisper và các thư viện âm thanh cần FFmpeg để giải mã định d�
 Cài đặt tất cả phụ thuộc từ [requirements.txt](file:///d:/speed-to-text-demo/requirements.txt):
 
 ```powershell
-# Chạy với lệnh Python hệ thống
 python -m pip install -r requirements.txt
 ```
 
-Hoặc nếu bạn sử dụng đường dẫn Python cụ thể:
-```powershell
-C:\Users\GIGABYTE\AppData\Local\Programs\Python\Python313\python.exe -m pip install -r requirements.txt
-```
+> 📖 **Xem hướng dẫn chi tiết từ lúc clone đến khi chạy tại:** [HUONG_DAN_CAI_DAT_VA_CHAY.md](HUONG_DAN_CAI_DAT_VA_CHAY.md)
 
 ---
 
-## 🚀 Hướng Dẫn Chạy Ứng Dụng (Lệnh Chạy Mới)
+## 🚀 Hướng Dẫn Chạy Ứng Dụng
 
-Khởi chạy ứng dụng máy chủ cục bộ bằng một trong các lệnh sau:
+Khởi chạy ứng dụng máy chủ cục bộ:
 
-### Lệnh chạy tiêu chuẩn:
 ```powershell
 python app.py
-```
-
-### Lệnh chạy với đường dẫn Python 3.13 tuyệt đối:
-```powershell
-C:\Users\GIGABYTE\AppData\Local\Programs\Python\Python313\python.exe app.py
 ```
 
 Khi máy chủ khởi động thành công, mở trình duyệt web và truy cập địa chỉ:
