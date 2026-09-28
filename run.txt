@@ -1,0 +1,17 @@
+# Lệnh khởi chạy ứng dụng QNU AI VIVA
+
+# Cách 1 (Khuyến nghị - Dùng môi trường ảo .venv cô lập, nhẹ máy):
+.\.venv\Scripts\python.exe app.py
+
+# Cách 2: Kích hoạt môi trường ảo rồi chạy
+.\.venv\Scripts\activate
+python app.py
+
+# Cách 3: Chạy trực tiếp qua Python máy
+python app.py
+
+# Cách 4: Chạy qua đường dẫn Python 3.13 tuyệt đối
+C:\Users\GIGABYTE\AppData\Local\Programs\Python\Python313\python.exe app.py
+
+# Địa chỉ truy cập ứng dụng sau khi khởi động:
+http://127.0.0.1:7860/

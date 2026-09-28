@@ -1,0 +1,134 @@
+# BỘ CÂU HỎI VÀ RUBRIC CHẤM ĐIỂM MẪU (MÔN: NHẬP MÔN CÔNG NGHỆ PHẦN MỀM)
+*Tài liệu này được biên soạn dựa trên Đề cương chi tiết học phần và Bộ câu hỏi ôn tập môn Nhập môn Công nghệ phần mềm của Trường Đại học Quy Nhơn.*
+
+---
+
+## 📑 CÂU HỎI 1: LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG (KHÁI NIỆM, VAI TRÒ & 4 TÍNH CHẤT CƠ BẢN CỦA OOP)
+
+### 🎙️ Câu hỏi vấn đáp
+> "Trình bày khái niệm và vai trò của lập trình hướng đối tượng (OOP). Nêu 4 tính chất cơ bản của OOP."
+
+### 📋 Rubric chấm điểm chi tiết (Thang điểm 10)
+* **1. Định nghĩa và Vai trò của OOP (2.5 điểm):**
+  * Định nghĩa đúng: OOP là phương pháp lập trình dựa trên khái niệm các đối tượng (objects), chứa dữ liệu (thuộc tính) và mã nguồn (phương thức) (1.5 điểm).
+  * Vai trò: Giúp mô hình hóa các bài toán thế giới thực trực quan hơn, tăng khả năng bảo trì, tái sử dụng và quản lý độ phức tạp của phần mềm (1.0 điểm).
+* **2. Nêu đúng tên và định nghĩa ngắn gọn 4 tính chất cơ bản (6.0 điểm):**
+  * **Đóng gói (Encapsulation) (1.5 điểm):** Che giấu thông tin chi tiết bên trong đối tượng, chỉ cho phép truy xuất thông qua các phương thức public công khai.
+  * **Kế thừa (Inheritance) (1.5 điểm):** Cho phép một lớp con kế thừa lại các thuộc tính và phương thức từ lớp cha, tăng tính tái sử dụng mã nguồn.
+  * **Đa hình (Polymorphism) (1.5 điểm):** Cho phép các đối tượng khác nhau phản hồi cùng một thông điệp/hành vi theo những cách khác nhau (ghi đè phương thức - overriding, hoặc nạp chồng - overloading).
+  * **Trừu tượng (Abstraction) (1.5 điểm):** Tập trung vào những đặc điểm cốt lõi của đối tượng, ẩn đi các chi tiết cài đặt phức tạp không cần thiết.
+* **3. Lấy ví dụ minh họa thực tế dễ hiểu (1.5 điểm):**
+  * Lấy được ví dụ cụ thể (ví dụ: Lớp Xe Hơi có các thuộc tính màu sắc, tốc độ và phương thức chạy, thắng; lớp con là Xe Huyndai kế thừa lớp Xe Hơi...) (1.5 điểm).
+
+---
+
+## 📑 CÂU HỎI 2: QUY TRÌNH PHÁT TRIỂN PHẦN MỀM (SCRUM FRAMEWORK)
+
+### 🎙️ Câu hỏi vấn đáp
+> "Khung quy trình phát triển phần mềm Scrum gồm những sự kiện (events) chính nào? Hãy trình bày mục đích của các sự kiện đó. Đồng thời, phân biệt vai trò của Scrum Master và Product Owner trong đội ngũ Scrum."
+
+### 📋 Rubric chấm điểm chi tiết (Thang điểm 10)
+* **1. Các sự kiện chính trong Scrum (4.0 điểm):**
+  * Nêu và giải thích đúng 4 sự kiện cốt lõi:
+    * **Sprint Planning (Lập kế hoạch Sprint) (1.0 điểm):** Xác định mục tiêu Sprint và chọn các công việc từ Product Backlog.
+    * **Daily Scrum (Họp hằng ngày) (1.0 điểm):** Cuộc họp ngắn (15 phút) để cập nhật tiến độ công việc, kế hoạch trong ngày và phát hiện trở ngại.
+    * **Sprint Review (Đánh giá Sprint) (1.0 điểm):** Demo sản phẩm hoàn thành cuối Sprint cho khách hàng/bên liên quan xem và lấy phản hồi.
+    * **Sprint Retrospective (Cải tiến Sprint) (1.0 điểm):** Đội ngũ nhìn lại Sprint đã qua để rút kinh nghiệm và cải tiến quy trình làm việc.
+* **2. Vai trò của Product Owner (PO) (2.0 điểm):**
+  * Định nghĩa đúng vai trò: Là người chịu trách nhiệm tối ưu hóa giá trị của sản phẩm, quản lý và sắp xếp thứ tự ưu tiên các yêu cầu trong Product Backlog (1.0 điểm).
+  * Nêu được mối quan hệ: PO làm việc chặt chẽ với khách hàng và đại diện cho tiếng nói của khách hàng đối với đội ngũ phát triển (1.0 điểm).
+* **3. Vai trò của Scrum Master (SM) (2.0 điểm):**
+  * Định nghĩa đúng vai trò: Là người hỗ trợ quy trình, giúp đội ngũ hiểu và vận hành đúng Scrum (1.0 điểm).
+  * Nêu được nhiệm vụ chính: Loại bỏ các trở ngại (impediments) cản trước tiến độ của đội phát triển, bảo vệ đội ngũ khỏi các tác động bên ngoài (1.0 điểm).
+* **4. Kỹ năng diễn đạt & Thuật ngữ chuyên ngành (2.0 điểm):**
+  * Trình bày logic, lưu loát, sử dụng chính xác các thuật ngữ chuyên ngành phần mềm (Sprint, Backlog, Impediments...) (1.5 điểm).
+  * Tác phong trả lời tự tin, trả lời đúng trọng tâm câu hỏi (0.5 điểm).
+
+---
+
+## 📑 CÂU HỎI 3: KỸ NGHỆ YÊU CẦU (YÊU CẦU CHỨC NĂNG & PHI CHỨC NĂNG)
+
+### 🎙️ Câu hỏi vấn đáp
+> "Yêu cầu phần mềm là gì? Hãy phân biệt và cho ví dụ cụ thể minh họa sự khác nhau giữa Yêu cầu chức năng (Functional requirements) và Yêu cầu phi chức năng (Non-functional requirements)."
+
+### 📋 Rubric chấm điểm chi tiết (Thang điểm 10)
+* **1. Định nghĩa Yêu cầu phần mềm (2.0 điểm):**
+  * Giải thích được: Yêu cầu phần mềm là những mô tả về các dịch vụ/tính năng mà hệ thống phải cung cấp và các ràng buộc đi kèm đối với hoạt động của hệ thống đó.
+* **2. Yêu cầu chức năng (Functional Requirements) (3.0 điểm):**
+  * Định nghĩa đúng: Các yêu cầu mô tả những gì hệ thống phải thực hiện trực tiếp (chức năng, nghiệp vụ cụ thể của phần mềm khi người dùng thao tác) (1.5 điểm).
+  * Ví dụ thực tế chính xác: Chức năng đăng nhập, thanh toán trực tuyến qua thẻ, tìm kiếm sản phẩm theo tên, xuất báo cáo doanh thu dưới dạng file PDF (1.5 điểm).
+* **3. Yêu cầu phi chức năng (Non-functional Requirements) (3.0 điểm):**
+  * Định nghĩa đúng: Các yêu cầu đặt ra các ràng buộc về chất lượng hoặc thuộc tính vận hành của hệ thống (như hiệu năng, bảo mật, độ tin cậy, tính dễ dùng...) chứ không phải tính năng trực tiếp (1.5 điểm).
+  * Ví dụ thực tế chính xác: Hệ thống phải phản hồi dưới 2 giây đối với mọi truy vấn tìm kiếm, mật khẩu người dùng phải được mã hóa bảo mật, hệ thống có thể hoạt động ổn định khi có 10.000 người truy cập đồng thời (1.5 điểm).
+* **4. Kỹ năng diễn đạt & So sánh logic (2.0 điểm):**
+  * Phân biệt rõ ràng bản chất giữa "Làm cái gì" (Chức năng) và "Làm như thế nào / Đạt tiêu chuẩn gì" (Phi chức năng) (1.5 điểm).
+  * Diễn đạt lưu loát, mạch lạc (0.5 điểm).
+
+---
+
+## 📑 CÂU HỎI 4: THIẾT KẾ PHẦN MỀM (COUPLING & COHESION)
+
+### 🎙️ Câu hỏi vấn đáp
+> "Trong thiết kế kiến trúc phần mềm, hai độ đo Coupling (Độ liên kết) và Cohesion (Độ gắn kết) phản ánh điều gì? Người thiết kế mong muốn các độ đo này ở mức cao hay thấp để đạt chất lượng tốt? Hãy giải thích lý do tại sao."
+
+### 📋 Rubric chấm điểm chi tiết (Thang điểm 10)
+* **1. Khái niệm Coupling (Độ liên kết) (2.5 điểm):**
+  * Định nghĩa đúng: Đo lường mức độ phụ thuộc lẫn nhau giữa các mô-đun/lớp trong phần mềm (1.5 điểm).
+  * Mong muốn thiết kế: Mong muốn **Coupling thấp (Loose Coupling)** (1.0 điểm).
+* **2. Khái niệm Cohesion (Độ gắn kết) (2.5 điểm):**
+  * Định nghĩa đúng: Đo lường mức độ tập trung và liên quan chặt chẽ của các chức năng/nhiệm vụ bên trong cùng một mô-đun/lớp (1.5 điểm).
+  * Mong muốn thiết kế: Mong muốn **Cohesion cao (High Cohesion)** (1.0 điểm).
+* **3. Lý do lựa chọn và ảnh hưởng chất lượng (3.0 điểm):**
+  * Giải thích lý do chọn Loose Coupling & High Cohesion:
+    * **Dễ bảo trì và sửa đổi (Maintainability) (1.0 điểm):** Thay đổi ở mô-đun này ít làm ảnh hưởng hoặc làm lỗi dây chuyền sang các mô-đun khác do ít phụ thuộc (Coupling thấp).
+    * **Khả năng tái sử dụng (Reusability) (1.0 điểm):** Một mô-đun có tính gắn kết cao (Cohesion cao) thực hiện một nhiệm vụ trọn vẹn, độc lập nên rất dễ mang sang dự án khác tái sử dụng.
+    * **Dễ kiểm thử (Testability) (1.0 điểm):** Có thể viết unit test độc lập cho từng mô-đun một cách dễ dàng mà không cần tạo quá nhiều mock object phức tạp.
+* **4. Kỹ năng diễn đạt & Ví dụ (2.0 điểm):**
+  * Sử dụng các từ khóa chuyên ngành chuẩn xác (Loosely coupled, Highly cohesive, encapsulation...) (1.0 điểm).
+  * Lấy được ví dụ trực quan hoặc diễn đạt thuyết phục, có cấu trúc rõ ràng (1.0 điểm).
+
+---
+
+## 📑 CÂU HỎI 5: LẬP TRÌNH (TEST-DRIVEN DEVELOPMENT - TDD)
+
+### 🎙️ Câu hỏi vấn đáp
+> "Hãy trình bày các bước trong quy trình viết mã hướng kiểm thử (Test-Driven Development - TDD). So sánh sự khác nhau cơ bản giữa TDD và quy trình viết mã tăng dần thông thường (Incremental Coding)."
+
+### 📋 Rubric chấm điểm chi tiết (Thang điểm 10)
+* **1. Chu trình phát triển TDD (4.0 điểm):**
+  * Trình bày đầy đủ và giải thích đúng chu trình 3 bước cốt lõi (Red - Green - Refactor):
+    * **Bước 1: Viết Test Case trước (Red) (1.5 điểm):** Viết ca kiểm thử cho một tính năng mới trước khi viết mã nguồn thực tế. Chạy thử test case này và chấp nhận kết quả thất bại (Red) vì chưa có code xử lý.
+    * **Bước 2: Viết mã nguồn tối thiểu (Green) (1.5 điểm):** Viết đoạn code vừa đủ để test case trên chạy qua thành công (Green).
+    * **Bước 3: Tái cấu trúc (Refactor) (1.0 điểm):** Tối ưu hóa, dọn dẹp mã nguồn, loại bỏ code trùng lặp nhưng vẫn đảm bảo test case luôn Green.
+* **2. Khác biệt cốt lõi với Incremental Coding (2.0 điểm):**
+  * Nêu bật được sự khác biệt về mặt thứ tự:
+    * Incremental Coding: Viết mã nguồn trước -> Viết test kiểm thử sau (hoặc không viết test tự động).
+    * TDD: Viết test tự động trước -> Viết mã nguồn đáp ứng test sau.
+* **3. Lợi ích của phương pháp TDD (2.0 điểm):**
+  * Nêu được ít nhất 2 lợi ích:
+    * Đảm bảo độ bao phủ kiểm thử cao (Test Coverage).
+    * Giúp thiết kế mã nguồn gọn gàng hơn vì lập trình viên tập trung thiết kế interface trước khi code chi tiết.
+    * Phát hiện lỗi cực kỳ sớm ngay khi viết mã.
+* **4. Diễn đạt & Tính logic (2.0 điểm):**
+  * Lập luận rõ ràng, trình bày mạch lạc, giải thích dễ hiểu các thuật ngữ Red-Green-Refactor (2.0 điểm).
+
+---
+
+## 📑 CÂU HỎI 6: KIỂM THỬ PHẦN MỀM (BLACK-BOX & WHITE-BOX TESTING)
+
+### 🎙️ Câu hỏi vấn đáp
+> "Hãy phân biệt phương pháp kiểm thử hộp đen (Black-box testing) và kiểm thử hộp trắng (White-box testing). Cho biết phạm vi ứng dụng và đối tượng thực hiện chính của từng phương pháp."
+
+### 📋 Rubric chấm điểm chi tiết (Thang điểm 10)
+* **1. Kiểm thử hộp đen (Black-box testing) (3.0 điểm):**
+  * Định nghĩa: Kiểm thử dựa trên đặc tả yêu cầu chức năng và giao diện của phần mềm mà không cần biết cấu trúc mã nguồn bên trong (1.5 điểm).
+  * Đối tượng thực hiện & Phạm vi: Thường do Tester (Kỹ sư kiểm thử) hoặc Khách hàng thực hiện ở các mức độ kiểm thử hệ thống (System Test), kiểm thử chấp nhận (Acceptance Test) (1.5 điểm).
+* **2. Kiểm thử hộp trắng (White-box testing) (3.0 điểm):**
+  * Định nghĩa: Kiểm thử dựa trên cấu trúc giải thuật, luồng logic và mã nguồn chi tiết của phần mềm (kiểm tra các câu lệnh, nhánh rẽ, vòng lặp...) (1.5 điểm).
+  * Đối tượng thực hiện & Phạm vi: Thường do Developer (Lập trình viên) thực hiện chính ở mức độ kiểm thử đơn vị (Unit Test), kiểm thử tích hợp (Integration Test) (1.5 điểm).
+* **3. So sánh ưu/nhược điểm cơ bản (2.0 điểm):**
+  * So sánh được:
+    * Hộp đen: Dễ viết kịch bản từ góc nhìn người dùng, không cần kiến thức lập trình nhưng dễ bỏ sót luồng xử lý ẩn trong code (1.0 điểm).
+    * Hộp trắng: Kiểm tra triệt để đường đi của luồng xử lý, tối ưu thuật toán nhưng đòi hỏi kỹ năng lập trình cao và tốn thời gian khi mã nguồn thay đổi (1.0 điểm).
+* **4. Diễn đạt lưu loát & Cấu trúc so sánh tốt (2.0 điểm):**
+  * Trình bày logic dưới dạng so sánh đối chiếu rõ ràng các tiêu chí (Định nghĩa, Đối tượng, Phạm vi, Ưu/Nhược điểm) (2.0 điểm).

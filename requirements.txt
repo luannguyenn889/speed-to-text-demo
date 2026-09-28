@@ -1,0 +1,13 @@
+openai-whisper
+google-genai
+gradio
+soundfile
+groq
+transformers
+gTTS
+pandas
+openpyxl
+python-docx
+chromadb
+sentence-transformers
+python-dotenv
